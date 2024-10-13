@@ -1,0 +1,28 @@
+body{
+    padding: 1rem 16rem;
+    font-family: sans-serif;
+    background-color: #faf3e3;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 256px;
+    border-radius: 50%;
+    border: 2px solid #ff5b5b;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: serif;
+}
+
+h4{
+    text-align: left;
+    text-transform: capitalize;
+    color: #ff5b5b;
+}
